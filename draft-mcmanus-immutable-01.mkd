@@ -129,4 +129,12 @@ Directive Registry" with IETF Review.
 
 # Acknowledgments
 
-Thank you to Ben Maurer for partnership in developing and testing this idea.
+Thank you to Ben Maurer for partnership in developing and testing this
+idea. Thank you to Amos Jeffries for help with proxy interactions.
+
+TODO
+* proxies and no-cache should not do immutable
+* proxy may do this to skip a 304.. return depends on request
+  conditional 304/200.. even in the presence of max-age=0 request
+
+
