@@ -4,12 +4,12 @@
 
 Network Working Group                                         P. McManus
 Internet-Draft                                                   Mozilla
-Intended status: Standards Track                        October 26, 2016
-Expires: April 29, 2017
+Intended status: Standards Track                       December 19, 2016
+Expires: June 22, 2017
 
 
                         HTTP Immutable Responses
-                       draft-mcmanus-immutable-00
+                       draft-mcmanus-immutable-01
 
 Abstract
 
@@ -33,7 +33,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on April 29, 2017.
+   This Internet-Draft will expire on June 22, 2017.
 
 Copyright Notice
 
@@ -53,9 +53,9 @@ Copyright Notice
 
 
 
-McManus                  Expires April 29, 2017                 [Page 1]
+McManus                   Expires June 22, 2017                 [Page 1]
 
-Internet-Draft                     I-D                      October 2016
+Internet-Draft                     I-D                     December 2016
 
 
 1.  Introduction
@@ -109,9 +109,9 @@ Internet-Draft                     I-D                      October 2016
 
 
 
-McManus                  Expires April 29, 2017                 [Page 2]
+McManus                   Expires June 22, 2017                 [Page 2]
 
-Internet-Draft                     I-D                      October 2016
+Internet-Draft                     I-D                     December 2016
 
 
 2.  The immutable Cache-Control extension
@@ -165,9 +165,9 @@ Internet-Draft                     I-D                      October 2016
 
 
 
-McManus                  Expires April 29, 2017                 [Page 3]
+McManus                   Expires June 22, 2017                 [Page 3]
 
-Internet-Draft                     I-D                      October 2016
+Internet-Draft                     I-D                     December 2016
 
 
    o  Clients should ignore immutable for resources that do not provide
@@ -221,9 +221,9 @@ Internet-Draft                     I-D                      October 2016
 
 
 
-McManus                  Expires April 29, 2017                 [Page 4]
+McManus                   Expires June 22, 2017                 [Page 4]
 
-Internet-Draft                     I-D                      October 2016
+Internet-Draft                     I-D                     December 2016
 
 
 Author's Address
@@ -277,4 +277,4 @@ Author's Address
 
 
 
-McManus                  Expires April 29, 2017                 [Page 5]
+McManus                   Expires June 22, 2017                 [Page 5]

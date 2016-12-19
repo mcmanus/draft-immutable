@@ -1,8 +1,8 @@
 ---
 title: HTTP Immutable Responses
 abbrev: I-D
-docname: draft-mcmanus-immutable-00
-date: 2016-10-26
+docname: draft-mcmanus-immutable-01
+date: 2016-12-19
 category: std
 ipr: trust200902
 author:

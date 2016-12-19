@@ -9,7 +9,7 @@
 ]>
 
 
-<rfc ipr="trust200902" docName="draft-mcmanus-immutable-00" category="std">
+<rfc ipr="trust200902" docName="draft-mcmanus-immutable-01" category="std">
 
   <front>
     <title abbrev="I-D">HTTP Immutable Responses</title>
@@ -21,7 +21,7 @@
       </address>
     </author>
 
-    <date year="2016" month="October" day="26"/>
+    <date year="2016" month="December" day="19"/>
 
     
     
